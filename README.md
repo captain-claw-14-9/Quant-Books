@@ -1,2 +1,2 @@
 # Quant-Books
-Must Read Quant Genre Books (.pdf)
+Must Read Quant Books (.pdf)
